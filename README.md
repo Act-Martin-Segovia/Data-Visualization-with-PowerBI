@@ -10,6 +10,8 @@ The dataset includes:
 - Airports Table: A look-up table with details about the airports.
 - Airlines Table: A look-up table with airline information.
 
+Dataset link: https://www.kaggle.com/datasets/usdot/flight-delays?select=flights.csv
+
 ## Dashboard Visualizations
 
 1. Total Number of Flights (Card): Helps assess the overall scale of airline operations and demand trends for the year.
